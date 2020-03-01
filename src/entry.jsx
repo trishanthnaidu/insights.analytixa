@@ -1,0 +1,1 @@
+export { AnalytixaApp } from './App';

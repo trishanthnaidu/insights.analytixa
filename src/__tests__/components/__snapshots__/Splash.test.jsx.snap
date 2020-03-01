@@ -1,0 +1,367 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Splash Page load with cached User Auth 1`] = `
+<div
+  className="Component-root-105"
+>
+  <div
+    className="Component-loginPanel-106"
+  >
+    <div
+      className="Component-loginContainer-107"
+    >
+      <img
+        alt="logo"
+        className="Component-logo-109"
+        src="logo.svg"
+      />
+      <hr
+        className="Component-prismUnderline-110"
+      />
+      <p
+        className="Component-desc-111"
+      >
+        Login with your organisation credentials
+      </p>
+      <div
+        className="Component-termsNConditionContainer-112"
+      >
+        <div
+          aria-describedby={null}
+          className=""
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onMouseLeave={[Function]}
+          onMouseOver={[Function]}
+          onTouchEnd={[Function]}
+          onTouchStart={[Function]}
+          style={
+            Object {
+              "display": "inline-block",
+            }
+          }
+          title={null}
+        >
+          <span
+            aria-disabled={false}
+            className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-145 MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-checked-146 Mui-checked MuiIconButton-colorPrimary"
+            imputProps={Object {}}
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={null}
+          >
+            <span
+              className="MuiIconButton-label"
+            >
+              <input
+                checked={true}
+                className="PrivateSwitchBase-input-148"
+                data-indeterminate={false}
+                onChange={[Function]}
+                type="checkbox"
+                value="default"
+              />
+              <svg
+                aria-hidden="true"
+                className="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                />
+              </svg>
+            </span>
+            <span
+              className="MuiTouchRipple-root"
+            />
+          </span>
+        </div>
+        <span
+          className="Component-termsNConditionText-113"
+        >
+          By logging in, I agree with  
+          <span
+            className="Component-termsAnchor-114"
+            onClick={[Function]}
+          >
+            Terms of Use
+          </span>
+        </span>
+      </div>
+      <div
+        className="Component-buttonContainer-116"
+      >
+        <a
+          aria-disabled={false}
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained Component-Button-170 Component-starButton-118 MuiButton-containedPrimary"
+          href="/navigate"
+          onBlur={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Okta
+          </span>
+          <span
+            className="MuiTouchRipple-root"
+          />
+        </a>
+        <div
+          aria-describedby={null}
+          className="Component-MYIDupcoming-117"
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onMouseLeave={[Function]}
+          onMouseOver={[Function]}
+          onTouchEnd={[Function]}
+          onTouchStart={[Function]}
+          style={
+            Object {
+              "display": "inline-block",
+            }
+          }
+          title="coming soon !!"
+        >
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-contained Component-Button-170 Component-disneyButton-119 MuiButton-containedSecondary Mui-disabled Mui-disabled"
+            disabled={true}
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={-1}
+            type="button"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              MyID
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="Component-newsFeedsContainer-108"
+  >
+    <img
+      alt="imgPrismDesc"
+      className="Component-imgPrismDesc-120"
+      src="section00.svg"
+    />
+  </div>
+</div>
+`;
+
+exports[`Splash Page load with no cached session 1`] = `
+<div
+  className="Component-root-1"
+>
+  <div
+    className="Component-loginPanel-2"
+  >
+    <div
+      className="Component-loginContainer-3"
+    >
+      <img
+        alt="logo"
+        className="Component-logo-5"
+        src="logo.svg"
+      />
+      <hr
+        className="Component-prismUnderline-6"
+      />
+      <p
+        className="Component-desc-7"
+      >
+        Login with your organisation credentials
+      </p>
+      <div
+        className="Component-termsNConditionContainer-8"
+      >
+        <div
+          aria-describedby={null}
+          className=""
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onMouseLeave={[Function]}
+          onMouseOver={[Function]}
+          onTouchEnd={[Function]}
+          onTouchStart={[Function]}
+          style={
+            Object {
+              "display": "inline-block",
+            }
+          }
+          title={null}
+        >
+          <span
+            aria-disabled={false}
+            className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-41 MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-checked-42 Mui-checked MuiIconButton-colorPrimary"
+            imputProps={Object {}}
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={null}
+          >
+            <span
+              className="MuiIconButton-label"
+            >
+              <input
+                checked={true}
+                className="PrivateSwitchBase-input-44"
+                data-indeterminate={false}
+                onChange={[Function]}
+                type="checkbox"
+                value="default"
+              />
+              <svg
+                aria-hidden="true"
+                className="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                />
+              </svg>
+            </span>
+            <span
+              className="MuiTouchRipple-root"
+            />
+          </span>
+        </div>
+        <span
+          className="Component-termsNConditionText-9"
+        >
+          By logging in, I agree with  
+          <span
+            className="Component-termsAnchor-10"
+            onClick={[Function]}
+          >
+            Terms of Use
+          </span>
+        </span>
+      </div>
+      <div
+        className="Component-buttonContainer-12"
+      >
+        <a
+          aria-disabled={false}
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained Component-Button-66 Component-starButton-14 MuiButton-containedPrimary"
+          href="/sso"
+          onBlur={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Okta
+          </span>
+          <span
+            className="MuiTouchRipple-root"
+          />
+        </a>
+        <div
+          aria-describedby={null}
+          className="Component-MYIDupcoming-13"
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onMouseLeave={[Function]}
+          onMouseOver={[Function]}
+          onTouchEnd={[Function]}
+          onTouchStart={[Function]}
+          style={
+            Object {
+              "display": "inline-block",
+            }
+          }
+          title="coming soon !!"
+        >
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-contained Component-Button-66 Component-disneyButton-15 MuiButton-containedSecondary Mui-disabled Mui-disabled"
+            disabled={true}
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={-1}
+            type="button"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              MyID
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="Component-newsFeedsContainer-4"
+  >
+    <img
+      alt="imgPrismDesc"
+      className="Component-imgPrismDesc-16"
+      src="section00.svg"
+    />
+  </div>
+</div>
+`;
