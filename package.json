@@ -59,7 +59,7 @@
     "@material-ui/styles": "^4.4.3",
     "@rootzjs/store": "^1.1.7",
     "@rootzjs/ui": "^0.1.11",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "axios-mock-adapter": "^1.17.0",
     "babel-jest": "^24.9.0",
     "babel-loader": "^8.0.6",
