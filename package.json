@@ -73,7 +73,7 @@
     "enzyme": "^3.10.0",
     "file-loader": "^4.2.0",
     "gh-pages": "^2.2.0",
-    "highcharts": "^8.0.0",
+    "highcharts": "^9.0.0",
     "highcharts-more": "^0.1.7",
     "highcharts-pattern-fill": "^3.0.3",
     "highcharts-react-official": "^2.2.2",
